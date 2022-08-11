@@ -1,7 +1,8 @@
-package com.duran.travelapp
+package com.duran.travelapp.ui.view
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.duran.travelapp.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
